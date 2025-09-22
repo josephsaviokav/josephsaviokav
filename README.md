@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on Java-HMS<br><br>🌱 I’m currently learning postgersql,firebase,supabase
+ I’m currently working on Java-HMS<br><br>🌱 I’m currently learning postgresql,firebase,supabase
 
 
 ## 🌐 Socials:
